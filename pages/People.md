@@ -6,7 +6,7 @@ permalink: /people/
 
 ---
 <div style="display: flex; align-items: center; gap: 20px;">
-  <img src="{{ site.assets_path }}/image1.jpg" alt="Dr. Mouse" style="width: 200px; height: 200px; object-fit: cover; border-radius: 8px;">
+  <img src="{{ assets_path }}/image1.jpg" alt="Dr. Mouse" style="width: 200px; height: 200px; object-fit: cover; border-radius: 8px;">
   <div>
     <strong>Dr. Mouse</strong><br>
    <em>cheese enthusiast</em>.<br>
@@ -14,7 +14,7 @@ permalink: /people/
   </div>
 </div>
 <div style="display: flex; align-items: center; gap: 20px; margin-top: 30px;">
-<img src="{{ site.assets_path }}/image2.jpg" alt="Dr. Cat" style="width: 200px; height: 200px; object-fit: cover; object-position: 50% 35%; border-radius: 8px;">
+<img src="{{ assets_path }}/image2.jpg" alt="Dr. Cat" style="width: 200px; height: 200px; object-fit: cover; object-position: 50% 35%; border-radius: 8px;">
 <div>
     <strong>Dr. Cat</strong><br>
     <em>behavioral task specialist</em>.<br>
