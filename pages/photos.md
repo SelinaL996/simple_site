@@ -10,4 +10,4 @@ permalink: /photos/
   Your browser does not support the video tag.
 </video>
 <h2>Lab GIF</h2>
-<img src="{{ '/simple_site/assets/images/tenor.gif'}}" alt="Waving GIF" width="300">
+<img src="/assets/images/tenor.gif" alt="Waving GIF" width="300">
