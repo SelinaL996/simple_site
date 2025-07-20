@@ -9,4 +9,5 @@ permalink: /photos/
   <source src="{{ BASE_PATH }}/simple_site/assets/images/DR-19-02_00010.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
-<img src="{{ 'assets/images/tenor.gif' | relative_url }}" alt="Waving GIF" width="300">
+<h2>Lab GIF</h2>
+<img src="{{ '/simple_site/assets/images/tenor.gif' | relative_url }}" alt="Waving GIF" width="300">
